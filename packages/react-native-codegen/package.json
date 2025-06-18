@@ -29,7 +29,7 @@
     "lib"
   ],
   "dependencies": {
-    "glob": "^7.1.1",
+    "glob": "^9.0.0",
     "hermes-parser": "0.25.1",
     "invariant": "^2.2.4",
     "nullthrows": "^1.1.1",
