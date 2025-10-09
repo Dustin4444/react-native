@@ -47,7 +47,7 @@
     "hermes-estree": "0.25.1",
     "micromatch": "^4.0.4",
     "prettier": "2.8.8",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.3.1"
   },
   "peerDependencies": {
     "@babel/core": "*"
